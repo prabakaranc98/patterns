@@ -13,6 +13,8 @@ how we can find common patterns across different ml paradigms
 - World Models
 - Continous Learning
 
+- Evolution of the Deep Learning architectures (modern)   - Transformers have seen a lot of change.. gemma, mHC, Deep seek,  
+
 - will be make it like a weekly seminar read/ explorations and answering some of the questions
 
 
