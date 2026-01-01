@@ -11,6 +11,9 @@ how we can find common patterns across different ml paradigms
 - Bayesian Inference Connections with AI - Prof. Misra's Paper
 - mHC by Deepseek
 - World Models
+- Continous Learning
+
+- will be make it like a weekly seminar read/ explorations and answering some of the questions
 
 
 I am trying to figue out/ answer myself a question : What are the underlying pattern/common thread, so that we can understand build better.
